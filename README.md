@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my github page. My name is Soomin Eom(엄수민)
+### Hi there 👋 Welcome to Soomin's github page.
 
 <!--
 **soomineom/soomineom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
